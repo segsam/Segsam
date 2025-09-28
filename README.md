@@ -1,53 +1,51 @@
-#<!Hey there 👋, I'm Segun (aka Mr Segsam)
-Python Developer • Cybersecurity Researcher • API/Web Hacker • Ethical Red Teamer
-IBM Certified # 👋
+# 👋 Hi, I’m Segun Samuel  
 
-🧠 About Me
-🎓 IBM Certified RedHat System Administrator
-🔐 Reported vulnerabilities to organisations like:
-🛡️ iSON Xperiences
-🕵️ Cybersecurity researcher with a strong focus on API & Web Application Security
-🧪 Passionate about building tools, solving CTFs, and simulating real-world attack scenarios
-🧰 Experienced in developing backend and offensive security tools with Python
-🛠️ My Cybersecurity Toolbox
-🔒 Password Cracking Tools
-John the Ripper
-Hashcat
-Hydra
-Custom Python scripts for hash extraction & cracking
-🌐 Web Hacking & API Testing
-Burp Suite, OWASP ZAP
-Postman, Fiddler
-SQLMap, XSStrike, NoSQLi tools
-JWT, OAuth, GraphQL Testing
-📁 Recon & Info Gathering
-Sublist3r, Amass, Nmap, Dirsearch
-Shodan, Censys, Whois, theHarvester
-🛠️ Python Projects
-Password managers
-KeyLogger
-Vulnerability Scanner
-Password Cracker
-Port Scanner
-🏅 Certifications
-✅ Redhat – System Administration
-🎯 Ongoing: Preparing for OSCP and Bug Bounty Track
-📢 My Contributions
-Reported responsibly to several companies under Coordinated Disclosure
-Active on HackerOne, Bugcrowd, Intigriti and TryHackMe
-Bug Bounty acknowledgements include: iSon Xperiences, Airtel Ng 
-🖥️ Dev Stack & Tools
-💬 Python (FastAPI, Flask)
-🗃️ MongoDB
-⚙️ Git, GitHub Actions, PyInstaller
-🔧 Kali Linux, Burp Suite, Docker
-✍️ Markdown, MkDocs, Jupyter
-📺 My Content
-🎥 **YouTube : Coding, Bug Bounty & Red Teaming
-✍️ Medium Blog: Web & API hacking, red teaming writeups
-📬 Let's Connect
-💼 LinkedIn
-💬 Discord
-🙏 Support
-If you like my work, consider giving a ⭐️ to my projects and following me on GitHub for more cool tools!
+💻 **Cybersecurity Enthusiast | IT Manager | Pentester-in-Training | Open Source Contributor**  
+
+I’m passionate about building security tools, strengthening systems through GRC, SOC monitoring, and Pentesting, and contributing to the open-source security community.  
+
+---
+
+## 🔹 About Me  
+- 🔐 Cybersecurity projects: Keylogger, Packet Sniffer, Vulnerability Scanner, Port Scanner  
+- 🛡️ Experienced in **Windows Security Policy, Risk Register creation, Event Viewer monitoring**  
+- ⚙️ Skilled in **Python, Bash, SOC Operations, Risk & Compliance**  
+- 🎯 Exploring **Penetration Testing, Threat Hunting, and SIEM rules**  
+- 📚 Always learning, always building  
+
+---
+
+## 📌 Pinned Projects  
+👉  
+- [🔑 Keylogger](https://github.com/segsam/Keylogger-) – Logs keystrokes securely for research & demo  
+- [🌐 Packet Sniffer](https://github.com/segsam/Packet-Sniffer) – Capture & analyze network packets  
+- [🛠️ Vulnerability Scanner](https://github.com/segsam/Vulnerability-Scanner) – Detects potential security issues in web apps  
+- [🔍 Port Scanner](https://github.com/segsam/Port-Scanner) – Python-based tool for network reconnaissance  
+
+---
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Let’s Connect  
+- 📝 https://segsam.wordpress.com/
+- 📧 Email: segsam.ss@gmail.com 
+
+---
+
+⭐️ *“Securing today for a safer tomorrow.”*  
+
 
