@@ -50,4 +50,4 @@ Bug Bounty acknowledgements include: iSon Xperiences, Airtel Ng
 💬 Discord
 🙏 Support
 If you like my work, consider giving a ⭐️ to my projects and following me on GitHub for more cool tools!
-**segsam/Segsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
